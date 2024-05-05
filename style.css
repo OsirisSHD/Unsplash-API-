@@ -1,0 +1,29 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.photo-container {
+    text-align: center;
+}
+
+#photo {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.info {
+    margin-bottom: 20px;
+}
+
+#like-btn {
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+
